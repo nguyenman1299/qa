@@ -25,7 +25,7 @@ img{
 }
 
 .flip-book{
-	width: 400px;
+	width: 350px;
 	height: 500px;
 	position: relative;
 	perspective: 1500px;
